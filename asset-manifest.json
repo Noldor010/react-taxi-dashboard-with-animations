@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-taxi-dashboard-with-animations/static/css/main.caebe9cb.chunk.css",
+    "main.js": "/react-taxi-dashboard-with-animations/static/js/main.ad248a66.chunk.js",
+    "main.js.map": "/react-taxi-dashboard-with-animations/static/js/main.ad248a66.chunk.js.map",
+    "runtime-main.js": "/react-taxi-dashboard-with-animations/static/js/runtime-main.e835495a.js",
+    "runtime-main.js.map": "/react-taxi-dashboard-with-animations/static/js/runtime-main.e835495a.js.map",
+    "static/js/2.56e5afe8.chunk.js": "/react-taxi-dashboard-with-animations/static/js/2.56e5afe8.chunk.js",
+    "static/js/2.56e5afe8.chunk.js.map": "/react-taxi-dashboard-with-animations/static/js/2.56e5afe8.chunk.js.map",
+    "index.html": "/react-taxi-dashboard-with-animations/index.html",
+    "static/css/main.caebe9cb.chunk.css.map": "/react-taxi-dashboard-with-animations/static/css/main.caebe9cb.chunk.css.map",
+    "static/js/2.56e5afe8.chunk.js.LICENSE.txt": "/react-taxi-dashboard-with-animations/static/js/2.56e5afe8.chunk.js.LICENSE.txt",
+    "static/media/avatarImage.d37df039.jpeg": "/react-taxi-dashboard-with-animations/static/media/avatarImage.d37df039.jpeg",
+    "static/media/profile.2344c52c.jpeg": "/react-taxi-dashboard-with-animations/static/media/profile.2344c52c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e835495a.js",
+    "static/js/2.56e5afe8.chunk.js",
+    "static/css/main.caebe9cb.chunk.css",
+    "static/js/main.ad248a66.chunk.js"
+  ]
+}
